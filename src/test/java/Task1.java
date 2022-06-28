@@ -19,7 +19,7 @@ public class Task1 {
     @Test
     public void test3(){
         /**
-         * revert string using while loop
+         * reverse string using while loop
          */
     }
 }

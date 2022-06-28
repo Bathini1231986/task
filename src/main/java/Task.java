@@ -14,7 +14,7 @@ public class Task {
 
     public void task3(){
         /**
-         * swap two integers without using third variable
+         * reverse string using while loop
          */
     }
 
