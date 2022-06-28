@@ -14,6 +14,11 @@ public class Task1 {
         /**
          * swap two integers without using third variable
          */
+   Task t1=new Task();
+   ArrayList<Integer> a2=t1.task2(5, 10');
+   Assert.assertEquals(a2.get(0).intValue(), 10);
+   Assert.assertEquals(a2.get(1).intValue(), 5);
+
     }
 
     @Test
