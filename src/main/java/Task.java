@@ -10,6 +10,13 @@ public class Task {
         /**
          * swap two integers without using third variable
          */
+        a=a+b;
+		b=a-b;
+		a=a-b;
+		ArrayList<Integer> a1=new ArrayList<>();
+		a1.add(a);
+		a1.add(b);
+		return a1;
     }
 
     public void task3(){
